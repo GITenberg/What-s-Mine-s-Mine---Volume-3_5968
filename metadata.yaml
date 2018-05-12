@@ -1,5 +1,8 @@
 _repo: What-s-Mine-s-Mine---Volume-3_5968
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/127
     wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5968#What-s-Mine-s-Mine---Volume-3
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
